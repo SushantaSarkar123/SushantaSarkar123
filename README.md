@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVqeGR5ZzR5bTZ0dnc1dWNpOHk2NTMyMTB3eTVyamdjbWZ6eXNwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZjazFpMWI2Nmpnb2xtZXJrMmJ3ZjliZ250Y3FtbGx0ZmRqazYwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"  />
 </div>
 
 ###
