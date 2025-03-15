@@ -56,7 +56,7 @@
   <a href="https://www.youtube.com/@THEGROWINGX" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="43" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/thegrowingx/" target="_blank">
+  <a href="https://www.instagram.com/camera_man_gx/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="25" alt="instagram logo"  />
   </a>
   <a href="mailto:babaisarkar083@gmail.com" target="_blank">
